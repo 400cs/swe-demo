@@ -16,3 +16,5 @@ Here is an *ordered* list
 3. Item C
 
 ## YO!
+New feature WOW!
+New feature again
