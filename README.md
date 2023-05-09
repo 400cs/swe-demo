@@ -3,10 +3,10 @@ Here is my sample markdown
 
 ## Level 2 heading
 
-This is an *unordered* lis
--Item 1
--Item 2
--Item 3
+This is an *unordered* list
+- Item 1
+- Item 2
+- Item 3
 
 ### Level 3 heading
 Here is an *ordered* list
